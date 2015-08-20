@@ -1,5 +1,5 @@
 # recaptcha1-ci
-Google Recaptcha with Codeigniter 3
+Google Recaptcha v1 with Codeigniter 3
 
 ## Demo
 > http://demo.momo.my.id/recaptcha1_ci/
